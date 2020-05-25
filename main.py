@@ -21,7 +21,7 @@ for i in range(rows):
         rgb_array = img[i, j]
         #taking average of all RGB values of eavh pixel brighter ones are closer to 255
         avg = (int(rgb_array[0]) + int(rgb_array[1]) + int(rgb_array[2]))/3
-        #scaling the avergae image to a value within the ASCII chars length to replace
+        #scaling the average image to a value within the ASCII chars length to replace
         if round(round(avg)*65/255) - 1 > 0:
             #replacing the RGB pixel value with the character obtained from its scaled average
             array[i].append(to_map[round(round(avg)*65/255) - 1]*3)
