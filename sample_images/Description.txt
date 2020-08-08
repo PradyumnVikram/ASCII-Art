@@ -1,0 +1,1 @@
+In the above images, the one in full color is the original, now as you can see in ascii.png, the image has been converted to ASCII art, ascii1.ong and ascii2.png are zoomed in versions of ascii.png, you can see the letters in them
