@@ -9,5 +9,5 @@ In my version the code takes an image and converts it in ascii asrt
 <img src="https://raw.githubusercontent.com/PradyumnVikram/ASCII-Art/master/sample_images/ascii.PNG" width = "400" height = "400">
 <br> this is the same image converted to ascii with my code, all the pixels have been changed to letters
 
-<img src="https://raw.githubusercontent.com/PradyumnVikram/ASCII-Art/master/sample_images/ascii2.PNG">
+<img src="https://raw.githubusercontent.com/PradyumnVikram/ASCII-Art/master/sample_images/ascii2.PNG" width = "450" height = "400">
 <br> a zoomed in version of the ascii art, if you look well you can see that the image is composed of letters
