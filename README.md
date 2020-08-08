@@ -7,7 +7,7 @@ In my version the code takes an image and converts it in ascii asrt
 this is a sample image I have chosen randomly
 
 ![ascii.png](sample_images/ascii.PNG)
-this is the same image converted to ascii with my code, all the pixels have been changed to letters
+\n\n this is the same image converted to ascii with my code, all the pixels have been changed to letters
 
 ![ascii2.png](sample_images/ascii2.PNG)
-a zoomed in version of the ascii art, if you look well you can see that the image is composed of letters
+\n\n a zoomed in version of the ascii art, if you look well you can see that the image is composed of letters
