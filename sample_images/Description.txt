@@ -1,1 +1,4 @@
-In the above images, the one in full color is the original, now as you can see in ascii.png, the image has been converted to ASCII art, ascii1.ong and ascii2.png are zoomed in versions of ascii.png, you can see the letters in them
+In the above images, the one in full color is the original, now as you can see in ascii.png, the image has been converted to ASCII art, 
+ascii1.ong and ascii2.png are zoomed in versions of ascii.png, you can see the letters in them. The ascii art is stored in a txt file, because... its text
+the images are screenshots of the text file, sometimes if the ascii art is illegible try to zoom out and reduce font size, smaller the letter better the image quality
+this algorithm works on almost any image with good lighting
